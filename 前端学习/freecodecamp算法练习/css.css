@@ -1,0 +1,40 @@
+body{
+    background: lightblue;
+    font-size: 16px;
+}
+#header{
+    margin-top: 100px;
+    font-family: 楷体;
+    color: #2b669a;
+}
+#request{
+    margin-top: 40px;
+}
+#request select{
+    width: 300px;
+    font-size: 125%;
+    border-radius: 10px;
+    border: #999999 solid 1px;
+    padding: 0 5px;
+    text-align: center;
+}
+#request button{
+    background: #2aabd2;
+    color: snow;
+    width: 200px;
+}
+#request button:hover{
+    background: snow;
+    color: #2aabd2;
+}
+
+#result{
+    margin-top: 20px;
+    background: snow;
+    border-radius: 20px;
+    width: 500px;
+    padding: 20px;
+}
+p{
+    text-align: left;
+}
