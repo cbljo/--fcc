@@ -1,0 +1,25 @@
+body{
+    background: lightblue;
+    font-size: 16px;
+}
+#header{
+    margin-top: 100px;
+    font-family: 楷体;
+    color: #2b669a;
+}
+#main{
+    margin-top: 50px;
+    transform: translate(-20px,0);
+}
+ul{
+    margin-top: -14px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    background: snow;
+    width: 100px;
+    height: 100px;
+    margin-left: -2px;
+    color: lightblue;
+}
